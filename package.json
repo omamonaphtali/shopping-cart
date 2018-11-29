@@ -1,7 +1,10 @@
 {
   "name": "shopping-cart",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {"url": "https://github.com/omamonaphtali/shopping-cart"},
   "license": "MIT",
+  "author": {"name": "Jared Omamo", "email": "omamonaphtali@gmail.com"},
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
