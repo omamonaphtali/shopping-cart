@@ -11,8 +11,8 @@ import { ProductsService } from 'src/app/services/products.service';
 })
 export class CartComponent implements OnInit {
 
-  private items: ItemsModel[];
-  private total: number = 0;
+  public items: ItemsModel[];
+  public total: number = 0;
 
   constructor(
     private prodService: ProductsService,
